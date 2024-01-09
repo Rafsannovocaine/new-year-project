@@ -1,0 +1,90 @@
+.top-area{
+    background-image: url(Banner.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+}
+.unique{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.welcome{
+    background-image: url(Vectorrr.png);
+    width: 100%;
+    height: 70vh;
+}
+.new{
+    color: white;
+    font-size: small;
+
+}
+.offf{
+    font-size: 60px;
+}
+.ab{
+    color: brown;
+    text-align: left;
+    font-weight: bolder;
+    
+}
+h3{
+    font-size: 30px;
+}
+.off{
+    text-align: center;
+    color: red;
+}
+h5{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.holiday{
+    color: red;
+}
+.button{
+    color: whitesmoke;
+    background-color: red;
+   
+}
+.lorem{
+    text-align: left;
+}
+.sales{ text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: red;
+
+}
+img{
+    margin: 50px;
+}
+#soon{
+    text-align: left;
+    font-weight: bolder;
+    color: black;
+}
+.button{
+    margin-left: 730px;
+}
+.park{
+    width: 40%;
+    height: 40vh;
+    background-color: rgb(224, 215, 233);
+}
+.pakr{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footarea{
+    display: flex;
+    justify-content: space-around;
+}
+.foot{
+    background-color: black;
+    height: 40vh;
+    color: aliceblue;
+}
